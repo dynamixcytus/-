@@ -232,6 +232,7 @@ end
 _G.format_json = format_json
 
 local settingfile = "User\\setting"
+_G.settingfile = settingfile
 
 function loadConfigure()
     local f, msg
@@ -244,13 +245,13 @@ function loadConfigure()
     end
 end
 
-function saveConfigure()
+function save_setting()
     local f, msg
     f, msg = io.open(settingfile, 'w')
     if f == nil then
         error(msg)
     else
-        f:write(format_json(Serialize(setting)))
+        f:write(format_json(Serialize(cur_setting)))--新方法by Xrysnow
         f:close()
     end
 end
@@ -262,7 +263,6 @@ if setting.showcfg == nil or setting.showcfg == true then
     loadConfigure()
 end
 
-saveConfigure()-- 保存
 
 if #args >= 2 then
     loadstring(args[2])()
