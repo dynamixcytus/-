@@ -1,0 +1,94 @@
+[
+  {
+    "File": "/User/Score.dat",
+    "Sign": "e37c647eac0362df77d7f4b3b5c3aed0"
+  },
+  {
+    "File": "/User/setting",
+    "Sign": "d00b897fe72ca1dc060cd3ecf17b0a99"
+  },
+  {
+    "File": "/User/Spellcard.dat",
+    "Sign": "46f2e56a73852e98f9220a4747f5242d"
+  },
+  {
+    "File": "/cjson.dll",
+    "Sign": "01b0f34b8661ae56a46a497fa804319f"
+  },
+  {
+    "File": "/core.dat",
+    "Sign": "380f6268b0edf83d366a0ef2a3802a5e"
+  },
+  {
+    "File": "/Eyes2D.dll",
+    "Sign": "8715271e80bce2d36144ec81ca4d374e"
+  },
+  {
+    "File": "/fancy2D.dll",
+    "Sign": "c7fcd18f83eb3b33231c24563889185f"
+  },
+  {
+    "File": "/freetype.dll",
+    "Sign": "4e8edbf7a883e599d09ef0fe0b87b1aa"
+  },
+  {
+    "File": "/launch",
+    "Sign": "a1f2f71cd02e1c9bee51f708986611e3"
+  },
+  {
+    "File": "/lfs.dll",
+    "Sign": "d2d3a4f88c467e27571c708b3689af54"
+  },
+  {
+    "File": "/log.txt",
+    "Sign": "8a0ad77df7ef53458e1f875b1cfc5953"
+  },
+  {
+    "File": "/lua51.dll",
+    "Sign": "d542ec5f57512621425373ba26d505f0"
+  },
+  {
+    "File": "/luajit.dll",
+    "Sign": "9154dd21fedb79d468e6c2bb033dd991"
+  },
+  {
+    "File": "/manual",
+    "Sign": "91961f935a534ca2c7fdb756ca89a006"
+  },
+  {
+    "File": "/mod.dat",
+    "Sign": "f68efa77ff30d8c5bed01e196061f1d3"
+  },
+  {
+    "File": "/music.dat",
+    "Sign": "9d39745c7fc86856bf92629b98f274d5"
+  },
+  {
+    "File": "/ogg.dll",
+    "Sign": "666334eeca8837dce222fb3603abadc6"
+  },
+  {
+    "File": "/TDaMR.exe",
+    "Sign": "f86127df437a9fe9eadf837a393d4138"
+  },
+  {
+    "File": "/vorbis.dll",
+    "Sign": "de59c16e0296b9da6ea92ca277378d69"
+  },
+  {
+    "File": "/vorbisfile.dll",
+    "Sign": "f85a9cdf0a8a89e3e2173e5f62f414ee"
+  },
+  {
+    "File": "/zip.dll",
+    "Sign": "01d5a833d3212b3f961ccf43e42ab710"
+  },
+  {
+    "File": "/zlib.dll",
+    "Sign": "e65e43471e560d43e4b6d5053b0255f3"
+  },
+  {
+    "File": "/备注.txt",
+    "Sign": "4a8070dd5448047c65dff827c132cdc4"
+  }
+]
