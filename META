@@ -437,7 +437,7 @@
   },
   {
     "File": "/core.dat",
-    "Sign": "380f6268b0edf83d366a0ef2a3802a5e"
+    "Sign": "9274f3241fa1c18929b6b1fdcd4338be"
   },
   {
     "File": "/Eyes2D.dll",
@@ -453,7 +453,7 @@
   },
   {
     "File": "/launch",
-    "Sign": "a1f2f71cd02e1c9bee51f708986611e3"
+    "Sign": "2daca3bbf7a507507eeabc7958e0d56c"
   },
   {
     "File": "/lfs.dll",
@@ -473,11 +473,11 @@
   },
   {
     "File": "/manual",
-    "Sign": "91961f935a534ca2c7fdb756ca89a006"
+    "Sign": "8887c02fc6f3e3ed7b8f800851fbd051"
   },
   {
     "File": "/META",
-    "Sign": "4586876bd6737c04d77c2ba9233e7cf9"
+    "Sign": "2f702d78e1c602bcb925f38a311eeec5"
   },
   {
     "File": "/mod.dat",
@@ -509,6 +509,6 @@
   },
   {
     "File": "/备注.txt",
-    "Sign": "4a8070dd5448047c65dff827c132cdc4"
+    "Sign": "d5d26bff47804b4f8a7a2c3d4a63e026"
   }
 ]
